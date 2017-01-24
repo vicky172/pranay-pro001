@@ -18,3 +18,13 @@ int main() {
 	// your code goes here
 	return 0;
 }
+
+
+/*
+input =6;
+    1
+   232
+  34543
+ 4567654
+567898765
+*/
